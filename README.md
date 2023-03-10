@@ -1,1 +1,1 @@
-# Onlinemedical.github.io
+# sample.github.io
